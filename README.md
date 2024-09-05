@@ -1,12 +1,6 @@
 I am a student at [Nescot College](https://www.nescot.ac.uk) currently studying [Digital Production, Design & Development T Level](https://www.nescot.ac.uk/further-education/computing-and-it/courses/digital_production_tlevel_n3799/). I am passionate and motivated with expertise in creation of digital software and showcase my work at [Dog2657.com](https://dog2657.com). I have developed a cross-device time tracking appliction [Live Time Table](https://livetimetable.co.uk)
 
 
-### Projects
-- [Live Time Table](https://livetimetable.co.uk) An app designed to give you countdowns to events on each day
-- [Text editor](https://github.com/Dog2657/Text-Editor) A Java application which can read and write text files
-- [Account System](https://github.com/Dog2657/Account-System) A basic fastapi account system template
-
-
 ### Tools and Technologies
 
 ###### Front-end
