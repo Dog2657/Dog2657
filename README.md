@@ -11,6 +11,7 @@ I am a student at [Nescot College](https://www.nescot.ac.uk) currently studying 
 ![](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logocolor=white)
 ![](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white)
 
 ###### Back-end
 ![](https://img.shields.io/badge/Svelte%20Kit-grey?style=for-the-badge&logo=svelte&logocolor=white)
